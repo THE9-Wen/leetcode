@@ -58,8 +58,3 @@ char * reverseWords(char * s){
     }
     return s;
 }
-
-int main() {
-    reverseWords("Hello world");
-    return 0;
-}

@@ -35,9 +35,3 @@ char * reverseVowels(char * s){
     }
     return s;
 }
-
-int main() {
-    char * result = reverseVowels("hello");
-    printf("%s\n", result);
-    return 0;
-}

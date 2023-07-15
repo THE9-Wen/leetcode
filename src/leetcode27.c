@@ -14,7 +14,3 @@ int removeElement(int* nums, int numsSize, int val){
     }
     return slow;
 }
-
-int main() {
-    return 0;
-}

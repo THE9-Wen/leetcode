@@ -24,10 +24,4 @@ bool *kidsWithCandies(int *candies, int candiesSize, int extraCandies, int *retu
     return result;
 }
 
-int main() {
-    int array[4];
-    memset(array, 0, 4);
-    return 0;
-}
-
 

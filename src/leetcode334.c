@@ -95,7 +95,3 @@ bool increasingTriplet_v4(int* nums, int numsSize){
     }
     return false;
 }
-
-int main() {
-    return 0;
-}

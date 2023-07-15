@@ -65,7 +65,3 @@ bool canPlaceFlowers_v3(int* flowerbed, int flowerbedSize, int n){
     }
     return max >= n;
 }
-
-int main() {
-    return 0;
-}

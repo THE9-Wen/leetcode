@@ -35,7 +35,3 @@ char * gcdOfStrings(char * str1, char * str2){
     result[i] = '\0';
     return result;
 }
-
-int main() {
-    return 0;
-}

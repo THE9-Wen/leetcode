@@ -12,7 +12,3 @@ void reverseString(char* s, int sSize){
         s[right--] = temp;
     }
 }
-
-int main() {
-    return 0;
-}

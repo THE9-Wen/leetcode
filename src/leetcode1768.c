@@ -40,9 +40,3 @@ char * mergeAlternately_v2(char * word1, char * word2){
     result[length1 + length2] = '\0';
     return result;
 }
-
-int main() {
-    char * result = mergeAlternately_v2("hello", "world");
-    printf("%s\n", result);
-    return 0;
-}
