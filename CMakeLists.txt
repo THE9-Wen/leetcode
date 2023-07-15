@@ -4,5 +4,5 @@ project(leetcode C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(leetcode
-        src/leetcode1071.c
-        src/leetcode1768.c src/leetcode1431.c src/leetcode605.c src/leetcode151.c src/leetcode27.c src/leetcode344.c src/leetcode238.c src/leetcode334.c src/leetcode443.c src/leetcode283.h)
+        src/leetcode1071.h
+        src/leetcode1768.h src/leetcode1431.h src/leetcode605.h src/leetcode151.h src/leetcode27.h src/leetcode344.h src/leetcode238.h src/leetcode334.h src/leetcode443.h src/leetcode283.h src/leetcode392.h src/leetcode.c)
